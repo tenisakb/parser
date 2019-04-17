@@ -1,0 +1,26 @@
+{
+  "BX80662E31230V5\r\n": {
+    "price": "206\u00a0K\u010d",
+    "rate": "95 %",
+    "name": "\n                Intel Xeon E3-1230 v5\n                    \u00a0BX80662E31230V5\n                \n            ",
+    "slug": "/intel-xeon-e3-1230-v5/184529/produkt"
+  },
+  "FD-CA-NODE-804-BL-W\r\n": {
+    "price": "344\u00a0K\u010d",
+    "rate": "97 %",
+    "name": "\n                Fractal Design Node 804\n                    \u00a0FD-CA-NODE-804-BL-W\n                \n            ",
+    "slug": "/fractal-design-node-804/153385/produkt"
+  },
+  "220-G2-0550-Y2\r\n": {
+    "price": "581\u00a0K\u010d",
+    "rate": "95 %",
+    "name": "\n                EVGA SuperNOVA 550 G3 - 550W\n                    \u00a0220-G3-0550-Y2\n                \n            ",
+    "slug": "/evga-supernova-550-g3-550w/205068/produkt"
+  },
+  "NH-U9S\r\n": {
+    "price": "150\u00a0K\u010d",
+    "rate": "97 %",
+    "name": "\n                Noctua NH-U9S\n                    \u00a0NH-U9S\n                \n            ",
+    "slug": "/noctua-nh-u9s/164126/produkt"
+  }
+}
